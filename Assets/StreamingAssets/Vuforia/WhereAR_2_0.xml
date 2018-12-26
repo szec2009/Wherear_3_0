@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="18_marker_j" size="256.000000 256.000000" />
+    <ImageTarget name="32_marker" size="256.000000 256.000000" />
+    <ImageTarget name="tempo_marker_2" size="512.000000 512.000000" />
+    <ImageTarget name="tempo_marker_1" size="512.000000 512.000000" />
+    <ImageTarget name="france_art_5" size="256.000000 256.000000" />
+    <ImageTarget name="france_art_4" size="256.000000 256.000000" />
+    <ImageTarget name="france_art_3" size="256.000000 256.000000" />
+    <ImageTarget name="france_art_2" size="256.000000 256.000000" />
+    <ImageTarget name="france_art_1" size="256.000000 256.000000" />
+    <ImageTarget name="Marker" size="256.000000 256.000000" />
+    <ImageTarget name="20180424_2" size="512.000000 512.000000" />
+    <ImageTarget name="M_20180420_4" size="512.000000 512.000000" />
+    <ImageTarget name="M_20180420_3" size="512.000000 512.000000" />
+    <ImageTarget name="M_20180420_2" size="512.000000 512.000000" />
+    <ImageTarget name="M_20180420_1" size="512.000000 512.000000" />
+    <ImageTarget name="J_20180240_3" size="512.000000 512.000000" />
+    <ImageTarget name="J_20180420_2" size="512.000000 512.000000" />
+    <ImageTarget name="J_20170420_1" size="512.000000 512.000000" />
+  </Tracking>
+</QCARConfig>

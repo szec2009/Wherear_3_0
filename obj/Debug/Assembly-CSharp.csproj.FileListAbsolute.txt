@@ -1,0 +1,3 @@
+/Users/wherear/WhereAR_3_0/WhereAR_3_0/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/wherear/WhereAR_3_0/WhereAR_3_0/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/wherear/WhereAR_3_0/WhereAR_3_0/obj/Debug/Assembly-CSharp.dll

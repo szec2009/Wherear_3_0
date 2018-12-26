@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMG_8980" size="512.000000 384.000000" />
+    <ImageTarget name="bmw_x5" size="512.000000 319.883423" />
+    <ImageTarget name="chrismas1_scaled" size="512.000000 526.456482" />
+    <ImageTarget name="LaEstephe_Mask_3_scaled" size="512.000000 514.275574" />
+    <ImageTarget name="visa" size="512.000000 512.000000" />
+    <ImageTarget name="Uniqlo" size="512.000000 512.000000" />
+    <ImageTarget name="Starbucks" size="512.000000 512.000000" />
+    <ImageTarget name="Standard_Chartered" size="512.000000 512.000000" />
+    <ImageTarget name="Pacific_Coffee" size="512.000000 512.000000" />
+    <ImageTarget name="KMB" size="512.000000 512.000000" />
+    <ImageTarget name="KFC" size="512.000000 512.000000" />
+    <ImageTarget name="Heng_Seng_Bank" size="512.000000 512.000000" />
+    <ImageTarget name="7_11" size="512.000000 512.000000" />
+    <ImageTarget name="master_card" size="512.000000 512.000000" />
+    <ImageTarget name="20180816_2" size="512.000000 512.000000" />
+    <ImageTarget name="20180816_1" size="512.000000 512.000000" />
+    <ImageTarget name="20180816" size="512.000000 512.000000" />
+    <ImageTarget name="20180809" size="512.000000 512.000000" />
+    <ImageTarget name="test_name_card_f" size="256.000000 154.701584" />
+  </Tracking>
+</QCARConfig>
